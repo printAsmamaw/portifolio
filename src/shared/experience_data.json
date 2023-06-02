@@ -1,0 +1,52 @@
+{
+	"title": "Experience",
+	"subtitle": "Work, Internship and Volunteership",
+	"description":
+		"I have worked with many evolving startups as ML and DL Developer,Web Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+	"header_image_path": "experience.svg",
+	"sections": [
+		{
+			"title": "Work",
+			"experiences": [
+				{
+					"title": "Website and ML Developer",
+					"company": "Ensa",
+					"logo_path": "muffito_logo.png",
+					"duration": "May 2023 - Oct 2023",
+					"location": "Ensa, Addis Ababa",
+					"description":
+						"I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+					"color": "#9b1578"
+				},
+				{
+					"title": "Website Design",
+					"company": "Hottel",
+					"logo_path": "freecopy_logo.png",
+					"duration": "Nov 2023 - Dec 2023",
+					"location": "Wollo, Addis Ababa",
+					"description":
+						"I have the hotel booking system designed for booking the room and used to view the customer different type of food.I learnt the Design thinking of UI on perspective of People.",
+					"color": "#fc1f20"
+				}
+			]
+		},
+		{
+			"title": "Internships",
+			"experiences": [
+				{
+					"title": "Data Science Research Intern",
+					"company": "Ensa",
+					"logo_path": "delhivery_logo.png",
+					"duration": "May 2019 - Sept 2019",
+					"location": "Ensa, Addis Ababa",
+					"description": "I have worked on project of deep search image to check the usibility for all image for e-commerce purpose ,for security case.",
+					"color": "#ee3c26"
+				}
+			]
+		},
+		{
+			"title": "Volunteerships",
+			"experiences": []
+		}
+	]
+}
